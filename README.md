@@ -20,4 +20,4 @@ To use, clone the project and enter the required keys for Twitter and Google API
 
 Dependencies: Requests, Tweepy and Elasticsearch. To install dependencies install pip and run "pip install 'name of dependency'" on terminal.
 
-https://raw.github.com/shashankgargnyu/twittmap/master/capture.png
+https://raw.github.com/shashankgargnyu/twittmap/master/Capture.PNG
